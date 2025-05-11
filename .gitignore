@@ -1,0 +1,41 @@
+# Arquivos de ambiente
+.env
+
+# Diretórios de ambiente virtual
+venv/
+.env/
+.venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log e outros temporários
+*.log
+*.tmp
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Compilados Cython
+*.so
+
+# Arquivos de notebooks Jupyter
+.ipynb_checkpoints/
+
+# Build
+build/
+dist/
+*.egg-info/
