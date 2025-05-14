@@ -14,4 +14,3 @@ if __name__ == "__main__":
     # Exibe o resultado final do artigo
     print("\n✅ Artigo Final Revisado:\n")
     print(result["final_article"])
-    print(flow.get_graph().draw_mermaid())
